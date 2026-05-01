@@ -1181,20 +1181,8 @@ AS
   LIMIT    9;
 
 
-/* Top 9 Directors are, Andrew Jones
-						A.L. Vijay
-						Sion Sono
-						Chris Stokes
-						Sam Liu
-						Steven Soderbergh
-						Jesse V. Johnson
-						Justin Price
-						Özgür Bakar             */
 
 
 /*  THANK YOU , 
-	CASE STUDY DONE BY- S ZAIBA
-						VIPIN SURESH T 
-						RAYEES DAANISH SYED
-                        VISHAL TYAGI              */
+	CASE STUDY DONE BY- RAYEES DAANISH SYED */
 
